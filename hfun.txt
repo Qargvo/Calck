@@ -1,0 +1,9 @@
+sin
+cos
+pi
+tg
+ctg
+random
+sqrt
+ln
+exp

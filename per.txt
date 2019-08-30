@@ -1,0 +1,51 @@
+8 8
+0 3 1 1 1 1 1 1  
+3 3 3 3 3 3 3 3
+3 1 1 1 1 1 1 1
+4 4 1 2 2 1 1 1 
+4 4 1 2 2 1 1 1 
+4 4 1 4 4 2 2 1 
+4 4 1 4 4 2 2 1  
+4 4 1 4 4 4 4 2 
+ 
+; ) ( + - * / ^ 
+0 - выход
+1 - вв о д с ледующего
+2 - выполнение  с пом в стек
+3 - ошибка
+4 - вып стека
+5 - скобка дестрой
+
+
+
+
+
+Was wollen wir trinken sieben Tage lang,
+was wollen wir trinken, so ein Durst!
+Was wollen wir trinken sieben Tage lang,
+was wollen wir trinken, so ein Durst!
+
+Es wird genug fur alle sein,
+wir trinken zusammen,
+rollt das Fa? mal rein,
+wir trinken zusammen, nicht allein.
+
+Dann wollen wir schaffen, sieben Tage lang,
+dann wollen wir schaffen, komm fass an!
+Dann wollen wir schaffen, sieben Tage lang,
+dann wollen wir schaffen, komm fass an!
+
+Und das wird keine Plagerei,
+wir schaffen zusammen,
+sieben Tage lang.
+Ja, schaffen zusammen, nicht allein!
+
+Jetzt mussen wir streiten, keiner wei? wie lang.
+Ja, fur ein Leben ohne Zwang!
+Jetzt mussen wir streiten, keiner wei? wie lang.
+Ja, fur ein Leben ohne Zwang!
+
+Dann kriegt der Frust uns nicht mehr klein,
+wir halten zusammen,
+keiner kampft allein,
+wir gehen zusammen, nicht allein.
